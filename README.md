@@ -1,1 +1,2 @@
-# deployment_course
+# deployment of machine learning models
+## udemy course
